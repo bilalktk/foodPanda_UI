@@ -3,6 +3,9 @@
 # Features
 - **Splash Screen**
 - **Home Screen**
+- **Order Screen**
+- **Checkout Screen**
+- **Recommendation Screen**
 
 # Showcases:
 
